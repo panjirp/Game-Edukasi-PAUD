@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{011B3852-C51B-7529-349F-3021D850C7E1}") = "gundala", "Assembly-CSharp.csproj", "{D692CA88-F411-F2D8-1BEC-66BCBED07AE0}"
+EndProject
+Project("{011B3852-C51B-7529-349F-3021D850C7E1}") = "gundala", "Assembly-CSharp-Editor.csproj", "{5EF5FF3D-19DB-201F-F485-E31227310424}"
+EndProject
+Project("{011B3852-C51B-7529-349F-3021D850C7E1}") = "gundala", "Assembly-UnityScript.unityproj", "{C24D3F0E-F38E-F72D-6FBC-D5680DEB1CE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D692CA88-F411-F2D8-1BEC-66BCBED07AE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D692CA88-F411-F2D8-1BEC-66BCBED07AE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D692CA88-F411-F2D8-1BEC-66BCBED07AE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D692CA88-F411-F2D8-1BEC-66BCBED07AE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EF5FF3D-19DB-201F-F485-E31227310424}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EF5FF3D-19DB-201F-F485-E31227310424}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EF5FF3D-19DB-201F-F485-E31227310424}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EF5FF3D-19DB-201F-F485-E31227310424}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C24D3F0E-F38E-F72D-6FBC-D5680DEB1CE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C24D3F0E-F38E-F72D-6FBC-D5680DEB1CE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C24D3F0E-F38E-F72D-6FBC-D5680DEB1CE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C24D3F0E-F38E-F72D-6FBC-D5680DEB1CE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
